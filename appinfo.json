@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ahlbom.daniel@gmail.com",
+    "longName": "Rings",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Rings",
+    "uuid": "361fc9f0-78bc-47bc-adb0-c16aec72835c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
